@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAN.3.BP5 Define, monitor and adjust project estimates andresources"
+    id="c8d8361e-dac3-4e0a-a245-9dcfa299419d"
+    documentation="Define, monitor and adjust project estimates of effort and resources based on project's goals, project risks, motivation and boundaries.&#xD;&#xA;NOTE 4: Appropriate estimation methods should be used&#xD;&#xA;NOTE 5: Examples of necessary resources are people, infrastructure (such as tools, test equipment, communication mechanisms...) and hardware/materials. &#xD;&#xA;NOTE 6: Project risks (using MAN.5) and quality criteria (using SUP.1) may be considered.&#xD;&#xA;NOTE 7: Estimations and resources typically include engineering, management and supporting processes."/>

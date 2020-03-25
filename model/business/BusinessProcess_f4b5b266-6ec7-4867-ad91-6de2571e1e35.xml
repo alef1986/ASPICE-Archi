@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAN.3.BP8 Define, monitor and adjust project schedule"
+    id="f4b5b266-6ec7-4867-ad91-6de2571e1e35"
+    documentation="Allocate resources to activities, and schedule each activity of the whole project. The schedule has to be kept continuously updated during lifetime of the project.&#xD;&#xA;NOTE 10: This relates to all engineering, management and supporting processes"/>
