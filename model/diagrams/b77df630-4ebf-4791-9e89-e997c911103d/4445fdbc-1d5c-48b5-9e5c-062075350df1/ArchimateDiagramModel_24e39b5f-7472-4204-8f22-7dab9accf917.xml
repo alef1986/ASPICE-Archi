@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MAN.3 Project Managment"
+    name="Overview - MAN.3 Project Management"
     id="24e39b5f-7472-4204-8f22-7dab9accf917">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -178,7 +178,7 @@
           href="CompositionRelationship_46bdb0af-336b-4326-b03a-0a07111cd39f.xml#46bdb0af-336b-4326-b03a-0a07111cd39f"/>
     </sourceConnections>
     <bounds
-        x="360"
+        x="264"
         y="180"
         width="301"
         height="661"/>
@@ -516,5 +516,16 @@
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_9d197893-55a9-450a-bd43-ae325042f931.xml#9d197893-55a9-450a-bd43-ae325042f931"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="57f0f9d8-7333-46ca-8182-4c53f5b28594"
+      textAlignment="1"
+      content="This view describes MAN.3 Project Management Process, its outputs and outcomes&#xD;&#xA;&#xD;&#xA;Relation of Outcomes to Outputs and Base Practices is out of scope of this view. See respective view for these details.">
+    <bounds
+        x="1020"
+        y="224"
+        width="238"
+        height="617"/>
   </children>
 </archimate:ArchimateDiagramModel>
