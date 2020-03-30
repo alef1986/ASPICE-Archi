@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAN.5.BP4 Analyze risks"
+    id="a3208ba9-90d9-44bd-b6bc-18f2d8de7eee"
+    documentation="Analyze risks to determine the priority in which to apply resources to mitigate these risks.&#xD;&#xA;NOTE 4: Risks are normally analyzed to determine their probability, consequence and severity.&#xD;&#xA;NOTE 5: Different techniques may be used to analyze a system in order to understand if risks exist, for example, functional analysis, simulation, FMEA, FTA etc"/>

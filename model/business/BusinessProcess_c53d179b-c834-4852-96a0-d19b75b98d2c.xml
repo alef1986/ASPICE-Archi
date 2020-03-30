@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACQ.11.BP2 Define technical requirements"
+    id="c53d179b-c834-4852-96a0-d19b75b98d2c"
+    documentation="Define and develop the technical requirements and potential solutions (where relevant), including environment effect evaluation, safety and security, performance, supportability requirements to match the needs and expectations of the relevant user groups&#xD;&#xA;NOTE 1: This may include&#xD;&#xA;• the categorization, prioritization and indication of requirements&#xD;&#xA;• the indication of mandatory requirements&#xD;&#xA;• classification of requirements into functional areas&#xD;&#xA;• using defined end user types to describe the functional requirements within an organization"/>

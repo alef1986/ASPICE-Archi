@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PIM.3.BP2 Identify issues"
+    id="9e8fe81d-3354-4df0-a0c4-b2f5d7908d97"
+    documentation="Processes and interfaces are continuously analyzed to identify issues arising from the organization’s internal/external environment as improvement opportunities, and with justified reasons for&#xD;&#xA;change. This includes issues and improvement suggestions addressed by the customer&#xD;&#xA;NOTE 3: Continuous analysis may include problem report trend analysis (see SUP.9), analysis from Quality Assurance and Verification results and records (see SUP.1 – SUP.2), validation results and records, and product quality measures like ppm and recalls.&#xD;&#xA;NOTE 4: Information sources providing input for change may include: process assessment results, audits, customer's satisfaction reports, organizational effectiveness/efficiency, cost of quality.&#xD;&#xA;"/>

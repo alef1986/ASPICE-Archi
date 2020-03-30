@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAN.6.BP6 Retrieve measurement data"
+    id="1985bfd8-fb1d-4b32-9789-8f9a19fb1841"
+    documentation="Collect and store data of both base and derived measures, including any context information necessary to verify, understand, or evaluate the data"/>

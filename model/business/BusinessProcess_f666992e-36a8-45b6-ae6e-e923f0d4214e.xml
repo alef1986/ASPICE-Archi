@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REU.2.BP2 Identify domains for potential reuse"
+    id="f666992e-36a8-45b6-ae6e-e923f0d4214e"
+    documentation="Identify set(s) of systems and their components in terms of common properties that can be organized into a collection of reusable assets that may be used to construct systems in the domain."/>
