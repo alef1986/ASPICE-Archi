@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPL.2 BP3 Establish a product release classification and numbering scheme"
+    id="dc2b0c0e-ca91-4cd2-8907-3f7205d6d692"
+    documentation="A product release classification and numbering scheme are established based upon the intended purpose and expectations of the&#xD;&#xA;release(s).&#xD;&#xA;NOTE 3: A release numbering implementation may include&#xD;&#xA;• the major release number&#xD;&#xA;• the feature release number&#xD;&#xA;• the defect repair number&#xD;&#xA;• the alpha or beta release&#xD;&#xA;• the iteration within the alpha or beta release"/>

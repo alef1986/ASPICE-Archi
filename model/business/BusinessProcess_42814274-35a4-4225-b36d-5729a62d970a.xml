@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPL.2 BP5 Build the release from configured items"
+    id="42814274-35a4-4225-b36d-5729a62d970a"
+    documentation="The release is built from configured items to ensure integrity.&#xD;&#xA;NOTE 5: Where relevant the software release should be programmed onto the correct hardware revision before release."/>

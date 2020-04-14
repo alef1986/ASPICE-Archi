@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPL.2 BP12 Provide a release note"
+    id="bd1b0672-d481-48bb-96ac-0169bec89224"
+    documentation="A release is supported by information detailing key characteristics of the release.&#xD;&#xA;NOTE 8: The release note may include an introduction, the environmental requirements, installation procedures, product invocation, new feature identification and a list of defect resolutions, known defects and workarounds"/>

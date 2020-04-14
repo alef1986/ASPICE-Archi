@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPL.2 BP2 Define release products"
+    id="976c6955-4d9c-40c6-a8c9-0738ca2cad5a"
+    documentation="The products associated with the release are defined.&#xD;&#xA;NOTE 2: The release products may include programming tools where these are stated. In automotive terms a release may be associated with a sample e.g. A, B, C."/>
