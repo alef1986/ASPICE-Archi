@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.3.BP4 Describe dynamic behavior"
+    id="56845839-e508-4d9a-9e0c-ef060c01c9c1"
+    documentation="Evaluate and document the dynamic behavior of the interaction between system elements.&#xD;&#xA;NOTE 2: Dynamic behavior is determined by operating modes (e.g. start-up, shutdown, normal mode, calibration, diagnosis, etc.)."/>

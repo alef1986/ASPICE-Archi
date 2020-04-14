@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SYS.3 System Architectural Design"
-    id="85958416-de8c-4475-941b-eeaaff5eeed9"/>
+    id="85958416-de8c-4475-941b-eeaaff5eeed9"
+    documentation="The purpose of the System Architectural Design Process is to establish a system architectural design and identify which system requirements are to be allocated to which elements of the system, and to evaluate the system architectural design against defined criteria."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.3.BP5 Evaluate alternative system architectures"
+    id="8a0b5690-6320-416b-a6e1-fe9f565caf1f"
+    documentation="Define evaluation criteria for the architecture. Evaluate alternative system architectures according to the defined criteria. Record the rationale for the chosen system architecture.&#xD;&#xA;NOTE 3: Evaluation criteria may include quality characteristics (modularity, maintainability, expandability, scalability, reliability, security realization and usability) and results of make-buy-reuse analysis."/>

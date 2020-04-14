@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.3.BP1 Develop system architectural design"
+    id="53388a95-70f8-442c-83e2-32dce8da7237"
+    documentation="Develop and document the system architectural design that specifies the elements of the system with respect to functional and non-functional system requirements.&#xD;&#xA;NOTE 1: The development of system architectural design typically includes the decomposition into elements across appropriate hierarchical levels."/>
