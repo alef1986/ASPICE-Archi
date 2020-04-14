@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.5.BP6 Ensure consistency"
+    id="dd06b534-ebc3-4cdc-83be-33d5b9c5062c"
+    documentation="Ensure consistency between system requirements and test cases included in the system qualification test&#xD;&#xA;specification.&#xD;&#xA;NOTE 3: Consistency is supported by bidirectional traceability and can be demonstrated by review records.&#xD;&#xA;"/>

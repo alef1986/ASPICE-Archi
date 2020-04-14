@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.5.BP3 Select test cases"
+    id="fcc6ab97-e164-49de-b3bc-ebd76ee50b8d"
+    documentation="Select test cases from the system qualification test specification. The selection of test cases shall have sufficient coverage according to the system qualification test strategy and the release plan."/>

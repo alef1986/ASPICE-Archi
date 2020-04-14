@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.5.BP2 Develop specification for system qualification test"
+    id="07a233d2-e208-4459-8b86-936f809cfe92"
+    documentation="Develop the specification for system qualification test including test cases based on the verification criteria according to the system qualification test  trategy. The test specification shall be suitable to provide evidence for compliance of the integrated system with the system requirements."/>

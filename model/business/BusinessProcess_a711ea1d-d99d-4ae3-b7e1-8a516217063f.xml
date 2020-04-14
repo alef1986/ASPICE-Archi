@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.5.BP5 Establish bidirectional traceability"
+    id="a711ea1d-d99d-4ae3-b7e1-8a516217063f"
+    documentation="Establish bidirectional traceability between system requirements and test cases included in the system qualification test specification. Establish bidirectional traceability&#xD;&#xA;between test cases included in the system qualification test specification and system qualification test results.&#xD;&#xA;NOTE 2: Bidirectional traceability supports coverage, consistency and impact analysis.&#xD;&#xA;"/>
