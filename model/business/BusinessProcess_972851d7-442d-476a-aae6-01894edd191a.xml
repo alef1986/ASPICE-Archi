@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.2.BP2 Structure system requirements"
+    id="972851d7-442d-476a-aae6-01894edd191a"
+    documentation="Structure the system requirements in the system requirements specification by e.g.&#xD;&#xA;• grouping to project relevant clusters,&#xD;&#xA;• sorting in a logical order for the project,&#xD;&#xA;• categorizing based on relevant criteria for the project,&#xD;&#xA;• prioritizing according to stakeholder needs.&#xD;&#xA;NOTE 3: Prioritizing typically includes the assignment of functional content to planned releases. Refer to SPL.2.BP1"/>

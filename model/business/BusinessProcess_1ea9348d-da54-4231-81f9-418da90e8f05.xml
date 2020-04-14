@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.2.BP4 Analyze the impact on the operating environment"
+    id="1ea9348d-da54-4231-81f9-418da90e8f05"
+    documentation="Identify the interfaces between the specified system and other elements of the operating environment. Analyze the impact that the system requirements will have on these interfaces and the operating environment."/>

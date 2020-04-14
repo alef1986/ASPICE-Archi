@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.2.BP7 Ensure consistency"
+    id="123d8f84-4707-45b3-89ed-50a68318f794"
+    documentation="Ensure consistency between stakeholder requirements and system requirements.&#xD;&#xA;NOTE 8: Consistency is supported by bidirectional traceability and can be demonstrated by review records."/>

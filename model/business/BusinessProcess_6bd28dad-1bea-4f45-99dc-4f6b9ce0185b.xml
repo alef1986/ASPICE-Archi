@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.2.BP3 Analyze system requirements"
+    id="6bd28dad-1bea-4f45-99dc-4f6b9ce0185b"
+    documentation="Analyze the specified system requirements including their interdependencies to ensure correctness, technical feasibility and verifiability, and to support risk identification. Analyze the impact on cost, schedule and the technical impact.&#xD;&#xA;NOTE 4: The analysis of impact on cost and schedule supports the adjustment of project estimates. Refer to MAN.3.BP5."/>

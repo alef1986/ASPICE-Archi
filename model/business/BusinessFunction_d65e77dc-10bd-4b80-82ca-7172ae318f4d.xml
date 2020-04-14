@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SYS.2 System Requirements Analysis"
-    id="d65e77dc-10bd-4b80-82ca-7172ae318f4d"/>
+    id="d65e77dc-10bd-4b80-82ca-7172ae318f4d"
+    documentation="The purpose of the System Requirements Analysis Process is to transform the defined stakeholder requirements into a set of system requirements that will guide the design of the system."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.2.BP1 Specify system requirements"
+    id="a3b3f207-672b-4617-b16e-ea596da84601"
+    documentation="Use the stakeholder requirements and changes to the stakeholder requirements to identify the required functions and capabilities of the system. Specify functional and non-functional system requirements in a system requirements specification.&#xD;&#xA;NOTE 1: Application parameter influencing functions and capabilities are part of the system requirements.&#xD;&#xA;NOTE 2: For changes to the stakeholder's requirements SUP.10 applies"/>
