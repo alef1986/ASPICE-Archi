@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.4 System Integration and Integration Test"
+    id="9b0e7802-f8ef-4e60-ab54-465a27e0a0ce"
+    documentation="The purpose of the System Integration and Integration Test Process is to integrate the system items to produce an integrated system consistent with the system architectural design and to ensure that the system items are tested to provide evidence for compliance of the integrated system items with the system architectural design, including the interfaces between system items."/>

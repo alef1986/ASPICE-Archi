@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.4.BP6 Perform system integration test"
+    id="96b2393c-90a6-405d-b590-e75b0ece58e4"
+    documentation="Perform the system integration test using the selected test cases. Record the integration test results and logs.&#xD;&#xA;NOTE 6: See SUP.9 for handling of non-conformances"/>

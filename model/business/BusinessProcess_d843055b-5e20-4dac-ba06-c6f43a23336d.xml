@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.4.BP1 Develop system integration strategy"
+    id="d843055b-5e20-4dac-ba06-c6f43a23336d"
+    documentation="Develop a strategy for integrating the system items consistent with the project plan and the release plan. Identify system items based on the system architectural design and define a sequence for integrating them."/>

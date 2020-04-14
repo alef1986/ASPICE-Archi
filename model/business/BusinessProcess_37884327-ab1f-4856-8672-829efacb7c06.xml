@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.4.BP5 Select test cases"
+    id="37884327-ab1f-4856-8672-829efacb7c06"
+    documentation="Select test cases from the system integration test specification. The selection of test cases shall have sufficient coverage according to the system integration test strategy and the release plan"/>

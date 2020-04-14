@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.4.BP4 Integrate system items"
+    id="5002db38-be87-47d0-98e9-d120714f5f81"
+    documentation="Integrate the system items to an integrated system according to the system integration strategy.&#xD;&#xA;NOTE 5: The system integration can be performed step wise integrating system items (e.g. the hardware elements as prototype hardware, peripherals (sensors and actuators), the mechanics and integrated software) to produce a system consistent with the system architectural design."/>

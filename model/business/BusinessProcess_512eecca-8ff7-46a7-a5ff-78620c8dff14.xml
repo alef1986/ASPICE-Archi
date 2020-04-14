@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.4.BP7 Establish bidirectional traceability"
+    id="512eecca-8ff7-46a7-a5ff-78620c8dff14"
+    documentation="Establish bidirectional traceability between elements of the system architectural design and test cases included in the system integration test specification.&#xD;&#xA;Establish bidirectional traceability between test cases included in the system integration test specification and system integration test results.&#xD;&#xA;NOTE 7: Bidirectional traceability supports coverage, consistency and impact analysis. "/>

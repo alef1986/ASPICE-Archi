@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.4.BP2 Develop system integration test strategy including regression test strategy"
+    id="9673d4bd-b962-484a-b9cb-f981fb7ce426"
+    documentation="Develop a strategy for testing the integrated system items following the integration strategy. This includes a regression test strategy for re-testing integrated system items if a system item is changed"/>
