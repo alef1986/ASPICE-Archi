@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.1.BP5 Manage stakeholder requirements changes"
+    id="9c8d3f2d-6ce9-4e58-9966-b16046eee224"
+    documentation="Manage all changes made to the stakeholder requirements against the stakeholder requirements baseline to ensure enhancements resulting from changing technology and stakeholder needs are identified and that those who are affected by the changes are able to assess the impact and risks and initiate appropriate change control and mitigation actions.&#xD;&#xA;NOTE 5: Requirements change may arise from different sources as for instance changing technology and stakeholder needs, legal constraints.&#xD;&#xA;NOTE 6: An information management system may be needed to manage, store and reference any information gained and needed in defining agreed stakeholder requirements. "/>

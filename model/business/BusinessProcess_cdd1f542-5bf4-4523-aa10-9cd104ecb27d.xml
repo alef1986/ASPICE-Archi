@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.1.BP6 Establish customer-supplier query communication mechanism"
+    id="cdd1f542-5bf4-4523-aa10-9cd104ecb27d"
+    documentation="Provide means by which the customer can be aware of the status and disposition of their requirements changes and the supplier can have the ability to communicate necessary information, including data, in a customer-specified language and format.&#xD;&#xA;NOTE 7: Any changes should be communicated to the customer before implementation in order that the impact, in terms of time, cost and functionality can be evaluated.&#xD;&#xA;NOTE 8: This may include joint meetings with the customer or formal communication to review the status for their requirements and requests; Refer to the process SUP.4 Joint Review.&#xD;&#xA;NOTE 9: The formats of the information communicated by the supplier may include computer-aided design data and electronic data exchange"/>
