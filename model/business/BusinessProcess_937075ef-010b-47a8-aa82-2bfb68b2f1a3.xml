@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACQ.15.BP2 Evaluate supplier"
+    id="937075ef-010b-47a8-aa82-2bfb68b2f1a3"
+    documentation="Perform supplier capability determination as necessary.&#xD;&#xA;NOTE 2: It is often required that the supplier should have an ISO 9001 and/or an ISO 16949 certificate.&#xD;&#xA;NOTE 3: Establish the specific target levels against which the supplier’s capability will be measured."/>

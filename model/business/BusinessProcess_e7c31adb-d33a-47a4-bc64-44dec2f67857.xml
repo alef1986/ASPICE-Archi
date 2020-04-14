@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MAN5.BP6: Monitor risks"
+    name="MAN.5.BP6: Monitor risks"
     id="e7c31adb-d33a-47a4-bc64-44dec2f67857"
     documentation="For each risk (or set of risks) define measures (e.g. metrics) to determine changes in the status of a risk and to evaluate the progress of the of mitigation activities. Apply and assess these risk measures.&#xD;&#xA;NOTE 6: Major risks may need to be communicated to and monitored by higher levels of management."/>
