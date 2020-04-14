@@ -10,8 +10,8 @@
       textAlignment="1"
       content="This view describes Overview - ACQ.13 Project Requirements Process, its outputs and outcomes&#xD;&#xA;&#xD;&#xA;Relation of Outcomes to Outputs and Base Practices is out of scope of this view. See respective view for these details.&#xD;&#xA;&#xD;&#xA;Source of information for this view is Automotive SPICE Standards v.3.1&#xD;&#xA;(http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf)">
     <bounds
-        x="1020"
-        y="324"
+        x="996"
+        y="261"
         width="238"
         height="617"/>
   </children>
