@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.1.BP1 Specify software requirements"
+    id="50c3f31d-bcda-4fa8-8bb5-3495c24a3a35"
+    documentation="Use the system requirements and the system architecture and changes to system requirements and architecture to identify the required functions and capabilities of the software. Specify functional and non-functional software requirements in a software requirements specification.&#xD;&#xA;NOTE 1: Application parameter influencing functions and capabilities are part of the system requirements.&#xD;&#xA;NOTE 2: In case of software development only, the system requirements and the system architecture refer to a given operating environment (see also note 5). In that case, stakeholder requirements should be used as the basis for identifying the required functions and capabilities of the software as well as for identifying application parameters influencing software functions and capabilities."/>

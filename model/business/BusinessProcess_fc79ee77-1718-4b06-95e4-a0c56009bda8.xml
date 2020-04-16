@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SPL.2 BP7 Determine the delivery media type for the release"
+    name="SPL.2.BP7 Determine the delivery media type for the release"
     id="fc79ee77-1718-4b06-95e4-a0c56009bda8"
     documentation="The media type for product delivery is determined in accordance with the needs of the customer.&#xD;&#xA;NOTE 6: The media type for delivery may be intermediate (placed on an adequate media and delivered to customer), or direct (such as delivered in firmware as part of the package) or a mix of both. The release may be delivered electronically by placement on a server. The release may also need to be duplicated before delivery.&#xD;&#xA;"/>

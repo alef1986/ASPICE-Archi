@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.1.BP5 Develop verification criteria"
+    id="f4c42d4c-3f22-49ca-a398-38f925494b92"
+    documentation="Develop the verification criteria for each software requirement that define the qualitative and quantitative measures for the verification of a requirement.&#xD;&#xA;NOTE 6: Verification criteria demonstrate that a requirement can be verified within agreed constraints and is typically used as the input for the development of the software test cases or other verification measures that should demonstrate compliance with the software requirements.&#xD;&#xA;NOTE 7: Verification which cannot be covered by testing is covered by SUP.2."/>

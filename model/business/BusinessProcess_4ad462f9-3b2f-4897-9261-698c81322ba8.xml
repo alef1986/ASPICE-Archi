@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.1.BP7 Ensure consistency"
+    id="4ad462f9-3b2f-4897-9261-698c81322ba8"
+    documentation="Ensure consistency between system requirements and software requirements. Ensure consistency between the system architecture and software requirements.&#xD;&#xA;NOTE 10: Consistency is supported by bidirectional traceability and can be demonstrated by review records.&#xD;&#xA;NOTE 11: In case of software development only, the system requirements and system architecture refer to a given operating environment (see also note 2). In that case, consistency and bidirectional traceability have to be ensured between stakeholder requirements and software requirements."/>

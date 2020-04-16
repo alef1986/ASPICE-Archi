@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.1.BP2 Structure software requirements"
+    id="eeef1ea2-79cb-48ea-bd00-54ed92e837a4"
+    documentation="Structure the software requirements in the software requirements specification by e.g.&#xD;&#xA;• grouping to project relevant clusters,&#xD;&#xA;• sorting in a logical order for the project,&#xD;&#xA;• categorizing based on relevant criteria for the project,&#xD;&#xA;• prioritizing according to stakeholder needs.&#xD;&#xA;NOTE 3: Prioritizing typically includes the assignment of software content to planned releases. Refer to SPL.2.BP1."/>

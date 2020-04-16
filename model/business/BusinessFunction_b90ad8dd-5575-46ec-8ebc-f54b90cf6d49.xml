@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SPL.2 Product Release"
-    id="b90ad8dd-5575-46ec-8ebc-f54b90cf6d49"/>
+    id="b90ad8dd-5575-46ec-8ebc-f54b90cf6d49"
+    documentation="The purpose of the Product Release Process is to control the release of a product to the intended customer.&#xD;&#xA;"/>

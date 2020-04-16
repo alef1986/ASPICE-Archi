@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.1.BP4 Analyze the impact on the operating environment"
+    id="c2d9a8f6-acd0-4d23-9fa2-01ac989098b0"
+    documentation="Analyze the impact that the software requirements will have on interfaces of system elements and the operating environment.&#xD;&#xA;NOTE 5: The operating environment is defined as the system in which the software executes (e.g. hardware, operating system, etc.)"/>

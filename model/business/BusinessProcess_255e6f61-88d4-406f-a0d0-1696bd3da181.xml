@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SPL.2 BP1 Define the functional content of releases"
+    name="SPL.2.BP1 Define the functional content of releases"
     id="255e6f61-88d4-406f-a0d0-1696bd3da181"
     documentation="Establish a plan for releases that identifies the functionality to be included in each release.&#xD;&#xA;NOTE 1: The plan should point out which application parameters influencing the identified functionality are effective for which release.&#xD;&#xA;"/>

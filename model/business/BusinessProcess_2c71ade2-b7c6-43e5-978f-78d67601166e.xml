@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SPL.2 BP11 Ensure consistency"
+    name="SPL.2.BP11 Ensure consistency"
     id="2c71ade2-b7c6-43e5-978f-78d67601166e"
     documentation="Ensure consistency between software release number, paper label and EPROM-Label (if relevant)"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.1.BP3 Analyze software requirements"
+    id="bdc63ae1-7ecc-4459-b220-ed8c83b5a3c0"
+    documentation="Analyze the specified software requirements including their interdependencies to ensure correctness, technical feasibility and verifiability, and to support risk identification. Analyze the impact on cost, schedule and the technical impact.&#xD;&#xA;NOTE 4: The analysis of impact on cost and schedule supports the adjustment of project estimates. Refer to MAN.3.BP5.&#xD;&#xA;"/>
