@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.5.BP6 Perform software integration test"
+    id="8fb7dbe9-cee8-4c6a-890a-fbd08bd40631"
+    documentation="Perform the software integration test using the selected test cases. Record the integration test results and logs.&#xD;&#xA;NOTE 4: See SUP.9 for handling of non-conformances.&#xD;&#xA;NOTE 5: The software integration test may be supported by using hardware debug interfaces or simulation environments (e.g. Software-in-the-LoopSimulation)."/>

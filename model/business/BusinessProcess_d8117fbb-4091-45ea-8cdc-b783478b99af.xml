@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.5.BP4 Integrate software units and software items"
+    id="d8117fbb-4091-45ea-8cdc-b783478b99af"
+    documentation="Integrate the software units to software items and software items to integrated software according to the software integration strategy. "/>

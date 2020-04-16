@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.5.BP1 Develop software integration strategy"
+    id="83df2565-9504-41f7-b75b-bc9d79f967c6"
+    documentation="Develop a strategy for integrating software items consistent with the project plan and release plan. Identify software items based on the software architectural design and define a sequence for integrating them."/>

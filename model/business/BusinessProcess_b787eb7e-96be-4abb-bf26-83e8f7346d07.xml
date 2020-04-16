@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.5.BP9 Summarize and communicate results"
+    id="b787eb7e-96be-4abb-bf26-83e8f7346d07"
+    documentation="Summarize the software integration test results and communicate them to all affected parties.&#xD;&#xA;NOTE 8: Providing all necessary information from the test case execution in a summary enables other parties to judge the consequences"/>
