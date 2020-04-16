@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.2.BP5 Define resource consumption objectives"
+    id="87e23129-3512-473e-a67f-1d1c3c4eaf70"
+    documentation="Determine and document the resource consumption objectives for all relevant elements of the software architectural design on the appropriate hierarchical level.&#xD;&#xA;NOTE 4: Resource consumption is typically determined for resources like Memory (ROM, RAM, external / internal EEPROM or Data Flash), CPU load, etc"/>

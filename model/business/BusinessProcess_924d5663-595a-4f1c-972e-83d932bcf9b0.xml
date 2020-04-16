@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.2.BP8 Ensure consistency"
+    id="924d5663-595a-4f1c-972e-83d932bcf9b0"
+    documentation="Ensure consistency between software requirements and the software architectural design.&#xD;&#xA;NOTE 8: Consistency is supported by bidirectional traceability and can be demonstrated by review records."/>

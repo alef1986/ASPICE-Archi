@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.2.BP6 Evaluate alternative software architectures"
+    id="877133bd-943a-4fb0-a25d-89d5bcec95a8"
+    documentation="Define evaluation criteria for the architecture. Evaluate alternative software architectures according to the defined criteria. Record the rationale for the chosen software architecture.&#xD;&#xA;NOTE 5: Evaluation criteria may include quality characteristics (modularity, maintainability, expandability, scalability, reliability, security realization and usability) and results of make-buy-reuse analysis."/>

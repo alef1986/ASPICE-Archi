@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.2.BP1 Develop software architectural design"
+    id="a5f92c8e-4c0d-4ef0-8c67-34531344dc51"
+    documentation="Develop and document the software architectural design that specifies the elements of the software with respect to functional and non-functional software&#xD;&#xA;requirements.&#xD;&#xA;NOTE 1: The software is decomposed into elements across appropriate hierarchical levels down to the software components (the lowest level elements of the software architectural design) that are described in the detailed design."/>
