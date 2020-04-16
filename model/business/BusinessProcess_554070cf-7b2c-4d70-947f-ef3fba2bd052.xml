@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.3.BP5 Establish bidirectional traceability"
+    id="554070cf-7b2c-4d70-947f-ef3fba2bd052"
+    documentation="Establish bidirectional traceability between software requirements and software units. Establish bidirectional traceability between the software architectural design and the software detailed design. Establish bidirectional traceability between the software detailed design and software units.&#xD;&#xA;NOTE 3: Redundancy should be avoided by establishing a combination of these approaches that covers the project and the organizational needs.&#xD;&#xA;NOTE 4: Bidirectional traceability supports coverage, consistency and impact analysis. "/>

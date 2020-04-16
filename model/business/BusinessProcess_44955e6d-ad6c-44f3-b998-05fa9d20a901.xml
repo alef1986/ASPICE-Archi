@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.3.BP1 Develop software detailed design"
+    id="44955e6d-ad6c-44f3-b998-05fa9d20a901"
+    documentation="Develop a detailed design for each software component defined in the software architectural design that specifies all software units with respect to functional and nonfunctional software requirements"/>

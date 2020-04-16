@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.3.BP3 Describe dynamic behavior"
+    id="c0718f06-8669-428c-b190-3387fb6d6f57"
+    documentation="Evaluate and document the dynamic behavior of and the interaction between relevant software units.&#xD;&#xA;NOTE 1: Not all software units have dynamic behavior to be described."/>

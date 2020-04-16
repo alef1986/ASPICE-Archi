@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.3.BP4 Evaluate software detailed design"
+    id="04de5f42-7b03-4d29-8028-03837dc0d595"
+    documentation="Evaluate the software detailed design in terms of interoperability, interaction, criticality, technical&#xD;&#xA;complexity, risks and testability.&#xD;&#xA;NOTE 2: The results of the evaluation can be used as input for software unit verification.&#xD;&#xA;"/>
