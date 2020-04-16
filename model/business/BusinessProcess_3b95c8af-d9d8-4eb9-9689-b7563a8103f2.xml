@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.4.BP7 Summarize and communicate results"
+    id="3b95c8af-d9d8-4eb9-9689-b7563a8103f2"
+    documentation="Summarize the unit test results and static verification results and communicate them to all affected parties.&#xD;&#xA;NOTE 9: Providing all necessary information from the test case execution in a summary enables other parties to judge the consequences"/>

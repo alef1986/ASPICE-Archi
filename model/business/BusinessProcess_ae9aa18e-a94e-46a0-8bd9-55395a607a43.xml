@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.4.BP4 Test software units"
+    id="ae9aa18e-a94e-46a0-8bd9-55395a607a43"
+    documentation="Test software units using the unit test specification according to the software unit verification strategy. Record the test results and logs.&#xD;&#xA;NOTE 6: See SUP.9 for handling of non-conformances."/>

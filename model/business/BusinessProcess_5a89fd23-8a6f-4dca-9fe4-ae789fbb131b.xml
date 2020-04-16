@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.4.BP1 Develop software unit verification strategy including regression strategy"
+    id="5a89fd23-8a6f-4dca-9fe4-ae789fbb131b"
+    documentation="Develop a strategy for verification of the software units including regression strategy for re-verification if a software unit is changed. The verification strategy shall define how to provide evidence for compliance of the software units with the software detailed design and with the non-functional requirements.&#xD;&#xA;NOTE 1: Possible techniques for unit verification include static/dynamic analysis, code reviews, unit testing etc"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SWE.4 Software Unit Verification"
-    id="15db161b-3d65-4e8f-a5f5-af0d145bf8ff"/>
+    id="15db161b-3d65-4e8f-a5f5-af0d145bf8ff"
+    documentation="The purpose of the Software Detailed Design and Unit Construction Process is to provide an evaluated detailed design for the software components and to specify and to produce the software units."/>

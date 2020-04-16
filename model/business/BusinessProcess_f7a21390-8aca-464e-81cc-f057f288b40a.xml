@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.4.BP3 Perform static verification of software units"
+    id="f7a21390-8aca-464e-81cc-f057f288b40a"
+    documentation="Verify software units for correctness using the defined criteria for verification. Record the results of the static verification.&#xD;&#xA;NOTE 4: Static verification may include static analysis, code reviews, checks against coding standards and guidelines, and other techniques.&#xD;&#xA;NOTE 5: See SUP.9 for handling of non-conformances.&#xD;&#xA;"/>

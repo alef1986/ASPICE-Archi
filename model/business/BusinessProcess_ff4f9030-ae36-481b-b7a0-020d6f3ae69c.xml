@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.4.BP5 Establish bidirectional traceability"
+    id="ff4f9030-ae36-481b-b7a0-020d6f3ae69c"
+    documentation="Establish bidirectional traceability between software units and static verification results. Establish bidirectional traceability between the software detailed design and the unit test specification. Establish bidirectional traceability between the unit test specification and unit test results. &#xD;&#xA;NOTE 7: Bidirectional traceability supports coverage, consistency and impact analysis."/>

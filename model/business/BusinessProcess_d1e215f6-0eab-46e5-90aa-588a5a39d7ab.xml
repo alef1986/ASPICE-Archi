@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.4.BP2 Develop criteria for unit verification"
+    id="d1e215f6-0eab-46e5-90aa-588a5a39d7ab"
+    documentation="Develop criteria for unit verification that are suitable to provide evidence for compliance of the software units, and their interactions within the component, with the software detailed design and with the non-functional requirements according to the verification strategy. For unit testing, criteria shall be defined in a unit test specification.&#xD;&#xA;NOTE 2: Possible criteria for unit verification include unit test cases, unit test data, static verification, coverage goals and coding standards such as the MISRA rules.&#xD;&#xA;NOTE 3: The unit test specification may be implemented e.g. as a script in an automated test bench."/>
