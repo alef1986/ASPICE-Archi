@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.6.BP4 Test integrated software"
+    id="ebb080ed-2ae4-48f7-96b8-eb0085c423b3"
+    documentation="Test the integrated software using the selected test cases. Record the software test results and logs.&#xD;&#xA;NOTE 1: See SUP.9 for handling of non-conformances."/>

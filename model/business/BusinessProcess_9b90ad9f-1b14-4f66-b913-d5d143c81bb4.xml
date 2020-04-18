@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.6.BP5 Establish bidirectional traceability"
+    id="9b90ad9f-1b14-4f66-b913-d5d143c81bb4"
+    documentation="Establish bidirectional traceability between software requirements and test cases included in the software qualification test specification. Establish bidirectional traceability between test cases included in the software qualification test specification and software qualification test results.&#xD;&#xA;NOTE 2: Bidirectional traceability supports coverage, consistency and impact analysis.&#xD;&#xA;"/>

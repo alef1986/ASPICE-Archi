@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SWE.5.BP2 Develop software integration test strategy includingregression test strategy"
     id="8c9d3e02-87ca-49c3-9186-1574e4ac2fc7"
-    documentation="Develop a strategy for testing the integrated software items following the integration strategy. This includes a regression test strategy for re-testing integrated software items if a software item is&#xD;&#xA;changed."/>
+    documentation="Develop a strategy for testing the integrated software items following the integration strategy. This includes a regression test strategy for re-testing integrated software items if a software item is changed."/>

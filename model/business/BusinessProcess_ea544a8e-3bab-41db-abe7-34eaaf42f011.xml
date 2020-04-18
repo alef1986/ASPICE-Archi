@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.6.BP1 Develop software qualification test strategy including regression test strategy"
+    id="ea544a8e-3bab-41db-abe7-34eaaf42f011"
+    documentation="Develop a strategy for software qualification testing consistent with the project plan and the release plan. This includes a regression test strategy for re-testing the integrated software if a software item is changed."/>
