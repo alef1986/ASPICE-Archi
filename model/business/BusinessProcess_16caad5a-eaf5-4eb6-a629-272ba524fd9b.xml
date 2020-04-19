@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.8.BP7 Report configuration status"
+    id="16caad5a-eaf5-4eb6-a629-272ba524fd9b"
+    documentation="Record and report status of configuration items to support project management and other relevant processes.&#xD;&#xA;NOTE 5: Regular reporting of the configuration status (e.g. how many configuration items are currently under work, checked in, tested, released, etc.) supports project management activities and dedicated project phases like software integration."/>

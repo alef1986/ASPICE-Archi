@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.8.BP9 Manage the storage of configuration items and baselines"
+    id="39e1e975-07fb-483b-8721-fd4d242d3d71"
+    documentation="Ensure the integrity and availability of configuration items and baselines through appropriate scheduling and resourcing of storage, archiving (long term storage) and backup of the used CM systems.&#xD;&#xA;NOTE 7: Backup, storage and archiving may need to extend beyond the guaranteed lifetime of available storage media. Relevant configuration items affected may include those referenced in note 2 and note 3. Availability may be specified by contract requirements."/>

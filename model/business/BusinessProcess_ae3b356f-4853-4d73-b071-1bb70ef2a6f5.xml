@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.8.BP2 Identify configuration items"
+    id="ae3b356f-4853-4d73-b071-1bb70ef2a6f5"
+    documentation="Identify and document configuration items according to the configuration management strategy.&#xD;&#xA;NOTE 3: Configuration control is typically applied for the products that are delivered to the customer, designated internal work products, acquired products, tools and other configuration items that are used in creating and describing these work products."/>

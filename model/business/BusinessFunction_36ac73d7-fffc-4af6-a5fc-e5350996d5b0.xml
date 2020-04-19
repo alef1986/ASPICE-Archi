@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SUP.8 Configuration Management"
-    id="36ac73d7-fffc-4af6-a5fc-e5350996d5b0"/>
+    id="36ac73d7-fffc-4af6-a5fc-e5350996d5b0"
+    documentation="The purpose of the Documentation Process is to develop and maintain the recorded information produced by a process."/>

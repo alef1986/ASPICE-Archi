@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.8.BP8 Verify the information about configured items"
+    id="3bb5d042-b7c3-47ac-8d5c-aa09560edf81"
+    documentation="Verify that the information about configured items, and their baselines is complete and&#xD;&#xA;ensure the consistency of baselines.&#xD;&#xA;NOTE 6: A typical implementation is performing baseline and configuration management audits."/>

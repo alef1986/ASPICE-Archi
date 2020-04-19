@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.8.BP1 Develop a configuration management strategy"
+    id="0cf72365-1950-4ae8-be6d-7faf56b47b5b"
+    documentation="Develop a configuration management strategy, including&#xD;&#xA;• responsibilities;&#xD;&#xA;• tools and repositories;&#xD;&#xA;• criteria for configuration items;&#xD;&#xA;• naming conventions;&#xD;&#xA;• access rights;&#xD;&#xA;• criteria for baselines;&#xD;&#xA;• merge and branch strategy;&#xD;&#xA;• the revision history approach for configuration items&#xD;&#xA;NOTE 1: The configuration management strategy typically supports the handling of product/software variants which may be caused by different sets of application parameters or by other causes.&#xD;&#xA;NOTE 2: The branch management strategy specifies in which cases branching is permissible, whether authorization is required, how branches are merged, and which activities are required to verify that all changes have been consistently integrated without damage to other changes or to the original software.&#xD;&#xA;"/>
