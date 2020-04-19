@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.2.BP1 Develop a verification strategy"
+    id="e3d3948a-c13d-4999-8c11-d63c76ac18bc"
+    documentation="Develop and implement a verification strategy, including verification activities with associated methods, techniques, and tools; work product or processes under verification; degrees of independence for verification and schedule for performing these activities.&#xD;&#xA;NOTE 1: Verification strategy is implemented through a plan.&#xD;&#xA;NOTE 2: Software and system verification may provide objective evidence that the outputs of a particular phase of the software development life cycle (e.g. requirements, design, implementation, testing) meet all of the specified requirements for that phase.&#xD;&#xA;NOTE 3: Verification methods and techniques may include inspections, peer reviews (see also SUP.4), audits, walkthroughs and analysis. "/>
