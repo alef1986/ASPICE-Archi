@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.10.BP7 Track change requests to closure"
+    id="2a3a4c1e-aef8-4fde-bef9-bbe5a75a89a2"
+    documentation="Change requests are tracked until closure. Feedback to the initiator is provided."/>

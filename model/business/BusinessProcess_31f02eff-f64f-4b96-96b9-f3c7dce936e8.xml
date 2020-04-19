@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.10.BP1 Develop a change request management strategy"
+    id="31f02eff-f64f-4b96-96b9-f3c7dce936e8"
+    documentation="Develop a change request management strategy, including change request activities, a status model for the change requests, analysis criteria, and responsibilities for performing these activities. Interfaces to affected parties are defined and maintained.&#xD;&#xA;NOTE 1: A status model for change requests may contain: open, under investigation, approved for implementation, allocated, implemented, fixed, closed, etc.&#xD;&#xA;NOTE 2: Typical analysis criteria are: resource requirements, scheduling issues, risks, benefits, etc.&#xD;&#xA;NOTE 3: Change request activities ensure that change requests are systematically identified, described, recorded, analyzed, implemented, and managed.&#xD;&#xA;NOTE 4: The change request management strategy may cover different proceedings across the product life cycle, e.g. during prototype construction and series development."/>

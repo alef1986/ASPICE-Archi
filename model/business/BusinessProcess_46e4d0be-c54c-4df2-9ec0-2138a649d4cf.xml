@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.10.BP5 Approve change requests before implementation"
+    id="46e4d0be-c54c-4df2-9ec0-2138a649d4cf"
+    documentation="Change requests are prioritized based on analysis results and availability of resources before implementation and approved according to the&#xD;&#xA;strategy.&#xD;&#xA;NOTE 5: A Change Control Board (CCB) is a common mechanism used to approve change requests.&#xD;&#xA;NOTE 6: Prioritization of change requests may be done by allocation to releases."/>

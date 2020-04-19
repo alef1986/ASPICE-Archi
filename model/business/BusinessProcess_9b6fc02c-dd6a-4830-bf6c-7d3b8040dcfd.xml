@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.10.BP8 Establish bidirectional traceability"
+    id="9b6fc02c-dd6a-4830-bf6c-7d3b8040dcfd"
+    documentation="Establish bidirectional traceability between change requests and work products affected by the change requests. In case that the change request is initiated by a problem, establish bidirectional traceability between change requests and the corresponding problem reports.&#xD;&#xA;NOTE 7: Bidirectional traceability supports consistency, completeness and impact analysis."/>

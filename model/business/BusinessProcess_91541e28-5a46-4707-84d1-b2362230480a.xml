@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.10.BP4 Analyze and assess change requests"
+    id="91541e28-5a46-4707-84d1-b2362230480a"
+    documentation="Change requests are analyzed according to the strategy including their dependencies to affected work products and other change requests. Assess the impact of the change requests and establish criteria for confirming implementation."/>
