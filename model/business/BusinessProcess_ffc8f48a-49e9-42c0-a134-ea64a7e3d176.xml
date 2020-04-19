@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.9.BP4 Diagnose the cause and determine the impact of the problem"
+    id="ffc8f48a-49e9-42c0-a134-ea64a7e3d176"
+    documentation="Investigate the problem and determine its cause and impact in order to categorize the problem and to determine appropriate actions.&#xD;&#xA;NOTE 4: Problem categorization (e.g. A, B, C, light, medium, severe) may be based on severity, impact, criticality, urgency, relevance for the change process, etc."/>

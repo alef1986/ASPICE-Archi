@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.9.BP7 Initiate problem resolution"
+    id="2648f96e-cea2-40fd-99b9-b9c4b7777839"
+    documentation="Initiate appropriate actions according to the strategy to resolve the problem including review of those actions, or initiate a change request.&#xD;&#xA;NOTE 5: Appropriate actions may include the initiating of a change request. See SUP.10 for managing of change requests.&#xD;&#xA;NOTE 6: The implementation of process improvements (to prevent problems) is done in the process improvement process (PIM.3).The implementation of generic project management improvements (e.g. lessons learned) are part of the project management process (MAN.3). The implementation of generic work product related improvements are part of the quality assurance process (SUP.1).&#xD;&#xA;"/>

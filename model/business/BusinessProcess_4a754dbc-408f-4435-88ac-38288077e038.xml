@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.9.BP1 Develop a problem resolution management strategy"
+    id="4a754dbc-408f-4435-88ac-38288077e038"
+    documentation="Develop a problem resolution management strategy, including problem resolution activities, a status model for the problems, alert notifications, responsibilities for performing these activities and an urgent resolution strategy. Interfaces to affected parties are defined and definitions are&#xD;&#xA;maintained.&#xD;&#xA;NOTE 1: Problem resolution activities can be different during the product life cycle, e.g. during prototype construction and series development"/>

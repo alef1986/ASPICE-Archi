@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.9.BP2 Identify and record the problem"
+    id="e39c4242-5861-48b7-a61b-a239583c0f1f"
+    documentation="Each problem is uniquely identified, described and recorded. Supporting information should be provided to reproduce and diagnose the problem.&#xD;&#xA;NOTE 2: Supporting information typically includes the origin of the problem, how it can be reproduced, environmental information, by whom it has been detected, etc.&#xD;&#xA;NOTE 3: Unique identification supports traceability to changes made."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.9.BP6 Raise alert notifications"
+    id="06260487-7454-458a-862e-c2be2f5fb172"
+    documentation="If according to the strategy the problem has a high impact on other systems or other affected parties, an alert notification needs to be raised also according to the strategy."/>

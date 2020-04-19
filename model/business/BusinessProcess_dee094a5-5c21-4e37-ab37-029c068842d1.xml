@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.9.BP8 Track problems to closure"
+    id="dee094a5-5c21-4e37-ab37-029c068842d1"
+    documentation="Track the status of problems to closure including all related change requests. A formal acceptance has to be authorized before closing the problem."/>

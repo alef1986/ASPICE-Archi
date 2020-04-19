@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.9.BP3 Record the status of problems"
+    id="9f2bb11a-6817-497b-9b5c-98fe5c6a7d92"
+    documentation="A status according to the status model is assigned to each problem to facilitate tracking."/>
