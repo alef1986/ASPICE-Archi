@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.7.BP6 Check documentation"
+    id="31da74b9-d536-4881-a128-2cc37519d1a4"
+    documentation="Review documentation before distribution, and authorize documentation as appropriate before distribution or release.&#xD;&#xA;NOTE 2: The documentation intended for use by system and software users should accurately describe the system and software and how it is to be used in clear and useful manner for them.&#xD;&#xA;NOTE 3: Documentation should be checked through verification or validation process."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SUP.7.BP8 Maintain documentation"
+    id="179627dd-a824-4ff6-bfcb-05a080d979a2"
+    documentation="Maintain documentation in accordance with the determined documentation strategy.&#xD;&#xA;NOTE 4: If the documentation is part of a product baseline or if its control and stability are important, it should be modified and distributed in accordance with process SUP.8 Configuration management."/>
