@@ -559,8 +559,8 @@
       content="This view answers the following questions:&#xD;&#xA;- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;- If I implement and demploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;&#xD;&#xA;Scope of this view - Outcomes, Base Practices and their relations for ASPICE process SYS.2 System Requirements Analysis">
     <bounds
         x="12"
-        y="744"
-        width="665"
-        height="80"/>
+        y="732"
+        width="829"
+        height="92"/>
   </children>
 </archimate:ArchimateDiagramModel>
