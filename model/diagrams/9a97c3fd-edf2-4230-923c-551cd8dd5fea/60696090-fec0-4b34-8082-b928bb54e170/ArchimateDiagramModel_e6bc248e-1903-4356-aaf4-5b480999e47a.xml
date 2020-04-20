@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="O. vs. BP. vs. WP. - SYS.2 System Requirements Analysis"
     id="e6bc248e-1903-4356-aaf4-5b480999e47a"
-    documentation="This view answers the following questions:&#xD;&#xA;- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;- If I implement and demploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;&#xD;&#xA;Scope of this view - Outcomes, Base Practices and their relations for ASPICE process SYS.2 System Requirements Analysis">
+    documentation="This view answers the following questions:&#xD;&#xA;- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;- If I implement and demploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;&#xD;&#xA;Scope of this view - Outcomes, Base Practices and their relations for ASPICE process SYS.2 System Requirements Analysis&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="921f8ef6-be2a-46dd-bea1-2ca5f994a175"
@@ -556,11 +556,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="0f254205-9390-42f9-9cb0-976ce2b953ab"
       textAlignment="1"
-      content="This view answers the following questions:&#xD;&#xA;- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;- If I implement and demploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;&#xD;&#xA;Scope of this view - Outcomes, Base Practices and their relations for ASPICE process SYS.2 System Requirements Analysis">
+      content="This view answers the following questions:&#xD;&#xA;- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;- If I implement and demploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;&#xD;&#xA;Scope of this view - Outcomes, Base Practices and their relations for ASPICE process SYS.2 System Requirements Analysis&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi">
     <bounds
         x="12"
-        y="732"
+        y="726"
         width="829"
-        height="92"/>
+        height="127"/>
   </children>
 </archimate:ArchimateDiagramModel>
