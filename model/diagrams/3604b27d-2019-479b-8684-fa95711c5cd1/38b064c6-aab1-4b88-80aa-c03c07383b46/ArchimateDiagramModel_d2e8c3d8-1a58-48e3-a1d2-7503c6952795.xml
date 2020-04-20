@@ -8,7 +8,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="9171b63e-0858-4357-aaed-2bbb6675ed91"
       textAlignment="1"
-      content="This view answers the following questions:&#xD;&#xA;- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;- If I implement and demploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;&#xD;&#xA;Scope of this view - Outcomes, Base Practices and their relations for ASPICE process SWE.2 Software Architectural Design&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi">
+      content="This view answers the following questions:&#xD;&#xA;- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;- If I implement and deploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;&#xD;&#xA;Scope of this view - Outcomes, Base Practices and their relations for ASPICE process SWE.2 Software Architectural Design&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi">
     <bounds
         x="12"
         y="768"
