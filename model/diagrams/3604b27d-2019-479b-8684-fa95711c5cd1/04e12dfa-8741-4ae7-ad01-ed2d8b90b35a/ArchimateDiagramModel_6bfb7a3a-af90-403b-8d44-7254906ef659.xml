@@ -11,7 +11,7 @@
       content="This view answers the following questions:&#xD;&#xA;- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;- If I implement and deploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;&#xD;&#xA;Scope of this view - Outcomes, Base Practices and their relations for ASPICE process SWE.3 Software Detailed Design and Unit Construction&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi">
     <bounds
         x="12"
-        y="768"
+        y="684"
         width="829"
         height="133"/>
   </children>
