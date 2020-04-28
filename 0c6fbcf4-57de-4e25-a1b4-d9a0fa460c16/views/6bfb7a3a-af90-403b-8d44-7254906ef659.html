@@ -1,0 +1,354 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>O. vs. BP. vs. WP. - SWE.3 Software Detailed Design and Unit Construction</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>O. vs. BP. vs. WP. - SWE.3 Software Detailed Design and Unit Construction</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/6bfb7a3a-af90-403b-8d44-7254906ef659.png" alt="O. vs. BP. vs. WP. - SWE.3 Software Detailed Design and Unit Construction" usemap="#6bfb7a3a-af90-403b-8d44-7254906ef659map"/>
+			   <map name="6bfb7a3a-af90-403b-8d44-7254906ef659map">
+				  		<area shape="rect" coords="1356,10,1539,65" href="../elements/2750c7d9-54ed-44a7-b88c-497cd0f6d659.html"  target="element">
+				  		<area shape="rect" coords="1164,10,1347,65" href="../elements/5350dca6-eaa2-42b3-90c2-cb54e2bf363a.html"  target="element">
+				  		<area shape="rect" coords="972,10,1155,65" href="../elements/73496ebd-a9fc-4110-b468-36e01e0ec718.html"  target="element">
+				  		<area shape="rect" coords="10,10,193,65" href="../elements/44955e6d-ad6c-44f3-b998-05fa9d20a901.html"  target="element">
+				  		<area shape="rect" coords="588,10,771,65" href="../elements/04de5f42-7b03-4d29-8028-03837dc0d595.html"  target="element">
+				  		<area shape="rect" coords="780,10,963,65" href="../elements/554070cf-7b2c-4d70-947f-ef3fba2bd052.html"  target="element">
+				  		<area shape="rect" coords="204,10,387,65" href="../elements/599c7255-5674-4fab-b991-d89e067da2be.html"  target="element">
+				  		<area shape="rect" coords="396,10,579,65" href="../elements/c0718f06-8669-428c-b190-3387fb6d6f57.html"  target="element">
+				  		<area shape="rect" coords="1296,502,1501,557" href="../elements/27d1998c-afb9-4d93-9df6-b6d8ff6e8a0e.html"  target="element">
+				  		<area shape="rect" coords="984,502,1189,557" href="../elements/d47e94c8-d6bf-4afe-bbc6-cc6ccb757fe4.html"  target="element">
+				  		<area shape="rect" coords="660,502,865,557" href="../elements/e902bc7d-857b-4a04-b003-ee3d760e3d1d.html"  target="element">
+				  		<area shape="rect" coords="336,502,541,557" href="../elements/2eee8878-d753-4c8b-a620-ded22265e808.html"  target="element">
+				  		<area shape="rect" coords="12,502,217,557" href="../elements/36ec1c77-8bac-498c-9e10-b14286a3d982.html"  target="element">
+				  		<area shape="rect" coords="12,394,1635,428" href="../elements/255d6a10-c85c-44b4-8b83-bdcbcfdd652e.html"  target="element">
+				  		<area shape="rect" coords="12,346,1635,380" href="../elements/9fd5c76d-ba69-4cd7-b91b-ad96d52b42bb.html"  target="element">
+				  		<area shape="rect" coords="12,298,1635,335" href="../elements/7e8e2962-924c-4031-99e9-14c91dbf2197.html"  target="element">
+				  		<area shape="rect" coords="12,250,1635,284" href="../elements/67d04f02-24b9-4360-9355-152dc82b4991.html"  target="element">
+				  		<area shape="rect" coords="12,202,1635,236" href="../elements/8ee83c61-32da-44e6-a4c6-0cc44d94cd99.html"  target="element">
+				  		<area shape="rect" coords="12,154,1635,188" href="../elements/75518e2f-5e36-4736-b542-ad6768484649.html"  target="element">
+				          <area shape="rect" coords="12,658,841,791" href="../objects/e8c060c1-ace2-4800-ab89-b48b53268f81.html" target="element" >
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none">This view answers the following questions:
+- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?
+- If I implement and demploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?
+
+Scope of this view - Outcomes, Base Practices and their relations for ASPICE process SWE.3 Software Detailed Design and Unit Construction
+
+Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+									        <tr>
+									           <td> <a href="../objects/e8c060c1-ace2-4800-ab89-b48b53268f81.html" target="element">  </a> </td>
+									           <td> <a href="../objects/e8c060c1-ace2-4800-ab89-b48b53268f81.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+									        </tr>
+
+											<tr>
+											    <td> <a href="../elements/75518e2f-5e36-4736-b542-ad6768484649.html" target="element"> SWE.3.O.1 A detailed design is developed that describes software units </a> </td>
+											    <td> <a href="../elements/75518e2f-5e36-4736-b542-ad6768484649.html" target="element" class="i18n-elementtype-Outcome"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/8ee83c61-32da-44e6-a4c6-0cc44d94cd99.html" target="element"> SWE.3.O.2 Interfaces of each software unit are defined </a> </td>
+											    <td> <a href="../elements/8ee83c61-32da-44e6-a4c6-0cc44d94cd99.html" target="element" class="i18n-elementtype-Outcome"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/67d04f02-24b9-4360-9355-152dc82b4991.html" target="element"> SWE.3.O.3 The dynamic behavior of the software units is defined </a> </td>
+											    <td> <a href="../elements/67d04f02-24b9-4360-9355-152dc82b4991.html" target="element" class="i18n-elementtype-Outcome"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/7e8e2962-924c-4031-99e9-14c91dbf2197.html" target="element"> SWE.3.O.4 Consistency and bidirectional traceability are established between software requirements and software units; and consistency and bidirectional traceability are established between software architectural design and software detailed design; and consistency and bidirectional traceability are established between software detailed design and software units </a> </td>
+											    <td> <a href="../elements/7e8e2962-924c-4031-99e9-14c91dbf2197.html" target="element" class="i18n-elementtype-Outcome"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/9fd5c76d-ba69-4cd7-b91b-ad96d52b42bb.html" target="element"> SWE.3.O.5 The software detailed design and the relationship to the software architectural design is agreed and communicated to all affected parties </a> </td>
+											    <td> <a href="../elements/9fd5c76d-ba69-4cd7-b91b-ad96d52b42bb.html" target="element" class="i18n-elementtype-Outcome"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/255d6a10-c85c-44b4-8b83-bdcbcfdd652e.html" target="element"> SWE.3.O.6 Software units defined by the software detailed design are produced </a> </td>
+											    <td> <a href="../elements/255d6a10-c85c-44b4-8b83-bdcbcfdd652e.html" target="element" class="i18n-elementtype-Outcome"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/36ec1c77-8bac-498c-9e10-b14286a3d982.html" target="element"> 04-05 Software detailed design </a> </td>
+											    <td> <a href="../elements/36ec1c77-8bac-498c-9e10-b14286a3d982.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/2eee8878-d753-4c8b-a620-ded22265e808.html" target="element"> 11-05 Software unit </a> </td>
+											    <td> <a href="../elements/2eee8878-d753-4c8b-a620-ded22265e808.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/e902bc7d-857b-4a04-b003-ee3d760e3d1d.html" target="element"> 13-04 Communication Record </a> </td>
+											    <td> <a href="../elements/e902bc7d-857b-4a04-b003-ee3d760e3d1d.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/d47e94c8-d6bf-4afe-bbc6-cc6ccb757fe4.html" target="element"> 13-19 Review Record </a> </td>
+											    <td> <a href="../elements/d47e94c8-d6bf-4afe-bbc6-cc6ccb757fe4.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/27d1998c-afb9-4d93-9df6-b6d8ff6e8a0e.html" target="element"> 13-22 Traceability record  </a> </td>
+											    <td> <a href="../elements/27d1998c-afb9-4d93-9df6-b6d8ff6e8a0e.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/c0718f06-8669-428c-b190-3387fb6d6f57.html" target="element"> SWE.3.BP3 Describe dynamic behavior </a> </td>
+											    <td> <a href="../elements/c0718f06-8669-428c-b190-3387fb6d6f57.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/599c7255-5674-4fab-b991-d89e067da2be.html" target="element"> SWE.3.BP2 Define interfaces of software units </a> </td>
+											    <td> <a href="../elements/599c7255-5674-4fab-b991-d89e067da2be.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/554070cf-7b2c-4d70-947f-ef3fba2bd052.html" target="element"> SWE.3.BP5 Establish bidirectional traceability </a> </td>
+											    <td> <a href="../elements/554070cf-7b2c-4d70-947f-ef3fba2bd052.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/04de5f42-7b03-4d29-8028-03837dc0d595.html" target="element"> SWE.3.BP4 Evaluate software detailed design </a> </td>
+											    <td> <a href="../elements/04de5f42-7b03-4d29-8028-03837dc0d595.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/44955e6d-ad6c-44f3-b998-05fa9d20a901.html" target="element"> SWE.3.BP1 Develop software detailed design </a> </td>
+											    <td> <a href="../elements/44955e6d-ad6c-44f3-b998-05fa9d20a901.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/73496ebd-a9fc-4110-b468-36e01e0ec718.html" target="element"> SWE.3.BP6 Ensure consistency </a> </td>
+											    <td> <a href="../elements/73496ebd-a9fc-4110-b468-36e01e0ec718.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/5350dca6-eaa2-42b3-90c2-cb54e2bf363a.html" target="element"> SWE.3.BP7 Communicate agreed software detailed design </a> </td>
+											    <td> <a href="../elements/5350dca6-eaa2-42b3-90c2-cb54e2bf363a.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/2750c7d9-54ed-44a7-b88c-497cd0f6d659.html" target="element"> SWE.3.BP8 Develop software units </a> </td>
+											    <td> <a href="../elements/2750c7d9-54ed-44a7-b88c-497cd0f6d659.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+											</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+																	<tr>
+																		<td> <a href="../elements/198de158-ed00-4c51-a13b-ff8bb1ba24aa.html" target="element">  </a> </td>
+																		<td> <a href="../elements/198de158-ed00-4c51-a13b-ff8bb1ba24aa.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/36ec1c77-8bac-498c-9e10-b14286a3d982.html" target="element"> 04-05 Software detailed design </a> </td>
+																		<td> <a href="../elements/75518e2f-5e36-4736-b542-ad6768484649.html" target="element"> SWE.3.O.1 A detailed design is developed that describes software units </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/11c70046-2147-43de-9a5a-85e72f31ae9e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/11c70046-2147-43de-9a5a-85e72f31ae9e.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/36ec1c77-8bac-498c-9e10-b14286a3d982.html" target="element"> 04-05 Software detailed design </a> </td>
+																		<td> <a href="../elements/8ee83c61-32da-44e6-a4c6-0cc44d94cd99.html" target="element"> SWE.3.O.2 Interfaces of each software unit are defined </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/06015bec-b65c-48e7-921f-2b06e9a2fab7.html" target="element">  </a> </td>
+																		<td> <a href="../elements/06015bec-b65c-48e7-921f-2b06e9a2fab7.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/36ec1c77-8bac-498c-9e10-b14286a3d982.html" target="element"> 04-05 Software detailed design </a> </td>
+																		<td> <a href="../elements/67d04f02-24b9-4360-9355-152dc82b4991.html" target="element"> SWE.3.O.3 The dynamic behavior of the software units is defined </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/4b2f937a-1ec1-4f2a-a6dc-0ab69f636d64.html" target="element">  </a> </td>
+																		<td> <a href="../elements/4b2f937a-1ec1-4f2a-a6dc-0ab69f636d64.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/2eee8878-d753-4c8b-a620-ded22265e808.html" target="element"> 11-05 Software unit </a> </td>
+																		<td> <a href="../elements/255d6a10-c85c-44b4-8b83-bdcbcfdd652e.html" target="element"> SWE.3.O.6 Software units defined by the software detailed design are produced </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/49c5b80e-4e37-44d9-8e79-7ee4afffdc7c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/49c5b80e-4e37-44d9-8e79-7ee4afffdc7c.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/e902bc7d-857b-4a04-b003-ee3d760e3d1d.html" target="element"> 13-04 Communication Record </a> </td>
+																		<td> <a href="../elements/9fd5c76d-ba69-4cd7-b91b-ad96d52b42bb.html" target="element"> SWE.3.O.5 The software detailed design and the relationship to the software architectural design is agreed and communicated to all affected parties </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/95dcf956-e9e1-4938-8cfb-78b69ab2380e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/95dcf956-e9e1-4938-8cfb-78b69ab2380e.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/d47e94c8-d6bf-4afe-bbc6-cc6ccb757fe4.html" target="element"> 13-19 Review Record </a> </td>
+																		<td> <a href="../elements/7e8e2962-924c-4031-99e9-14c91dbf2197.html" target="element"> SWE.3.O.4 Consistency and bidirectional traceability are established between software requirements and software units; and consistency and bidirectional traceability are established between software architectural design and software detailed design; and consistency and bidirectional traceability are established between software detailed design and software units </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/a8d972c3-cfc3-4f68-9c3e-06725e074dd4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/a8d972c3-cfc3-4f68-9c3e-06725e074dd4.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/27d1998c-afb9-4d93-9df6-b6d8ff6e8a0e.html" target="element"> 13-22 Traceability record  </a> </td>
+																		<td> <a href="../elements/7e8e2962-924c-4031-99e9-14c91dbf2197.html" target="element"> SWE.3.O.4 Consistency and bidirectional traceability are established between software requirements and software units; and consistency and bidirectional traceability are established between software architectural design and software detailed design; and consistency and bidirectional traceability are established between software detailed design and software units </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/f7521559-7744-42bc-8637-a97b575f2be2.html" target="element">  </a> </td>
+																		<td> <a href="../elements/f7521559-7744-42bc-8637-a97b575f2be2.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/c0718f06-8669-428c-b190-3387fb6d6f57.html" target="element"> SWE.3.BP3 Describe dynamic behavior </a> </td>
+																		<td> <a href="../elements/67d04f02-24b9-4360-9355-152dc82b4991.html" target="element"> SWE.3.O.3 The dynamic behavior of the software units is defined </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/4b08aefa-5a09-47fd-a66d-8d51214d1f56.html" target="element">  </a> </td>
+																		<td> <a href="../elements/4b08aefa-5a09-47fd-a66d-8d51214d1f56.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/599c7255-5674-4fab-b991-d89e067da2be.html" target="element"> SWE.3.BP2 Define interfaces of software units </a> </td>
+																		<td> <a href="../elements/8ee83c61-32da-44e6-a4c6-0cc44d94cd99.html" target="element"> SWE.3.O.2 Interfaces of each software unit are defined </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/4d5c8bc6-a28d-4bb5-ac41-3a297fbb2909.html" target="element">  </a> </td>
+																		<td> <a href="../elements/4d5c8bc6-a28d-4bb5-ac41-3a297fbb2909.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/554070cf-7b2c-4d70-947f-ef3fba2bd052.html" target="element"> SWE.3.BP5 Establish bidirectional traceability </a> </td>
+																		<td> <a href="../elements/7e8e2962-924c-4031-99e9-14c91dbf2197.html" target="element"> SWE.3.O.4 Consistency and bidirectional traceability are established between software requirements and software units; and consistency and bidirectional traceability are established between software architectural design and software detailed design; and consistency and bidirectional traceability are established between software detailed design and software units </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/8ebe0f6d-22eb-4b6e-9619-b02ab04d7614.html" target="element">  </a> </td>
+																		<td> <a href="../elements/8ebe0f6d-22eb-4b6e-9619-b02ab04d7614.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/04de5f42-7b03-4d29-8028-03837dc0d595.html" target="element"> SWE.3.BP4 Evaluate software detailed design </a> </td>
+																		<td> <a href="../elements/75518e2f-5e36-4736-b542-ad6768484649.html" target="element"> SWE.3.O.1 A detailed design is developed that describes software units </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/b4981ad6-20e4-4c94-aa0b-1e9e6ea76c1e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/b4981ad6-20e4-4c94-aa0b-1e9e6ea76c1e.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/04de5f42-7b03-4d29-8028-03837dc0d595.html" target="element"> SWE.3.BP4 Evaluate software detailed design </a> </td>
+																		<td> <a href="../elements/8ee83c61-32da-44e6-a4c6-0cc44d94cd99.html" target="element"> SWE.3.O.2 Interfaces of each software unit are defined </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/250bbe86-2c8a-49a2-98b6-8702aa7f091e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/250bbe86-2c8a-49a2-98b6-8702aa7f091e.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/04de5f42-7b03-4d29-8028-03837dc0d595.html" target="element"> SWE.3.BP4 Evaluate software detailed design </a> </td>
+																		<td> <a href="../elements/67d04f02-24b9-4360-9355-152dc82b4991.html" target="element"> SWE.3.O.3 The dynamic behavior of the software units is defined </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/c48fc84c-f216-4df8-b70f-13e41e6ba330.html" target="element">  </a> </td>
+																		<td> <a href="../elements/c48fc84c-f216-4df8-b70f-13e41e6ba330.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/04de5f42-7b03-4d29-8028-03837dc0d595.html" target="element"> SWE.3.BP4 Evaluate software detailed design </a> </td>
+																		<td> <a href="../elements/7e8e2962-924c-4031-99e9-14c91dbf2197.html" target="element"> SWE.3.O.4 Consistency and bidirectional traceability are established between software requirements and software units; and consistency and bidirectional traceability are established between software architectural design and software detailed design; and consistency and bidirectional traceability are established between software detailed design and software units </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/2e38a92f-75a0-4196-8091-191d233baac8.html" target="element">  </a> </td>
+																		<td> <a href="../elements/2e38a92f-75a0-4196-8091-191d233baac8.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/44955e6d-ad6c-44f3-b998-05fa9d20a901.html" target="element"> SWE.3.BP1 Develop software detailed design </a> </td>
+																		<td> <a href="../elements/75518e2f-5e36-4736-b542-ad6768484649.html" target="element"> SWE.3.O.1 A detailed design is developed that describes software units </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/7d4cd1a6-7f94-4136-8bc7-52901092f4b1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/7d4cd1a6-7f94-4136-8bc7-52901092f4b1.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/73496ebd-a9fc-4110-b468-36e01e0ec718.html" target="element"> SWE.3.BP6 Ensure consistency </a> </td>
+																		<td> <a href="../elements/7e8e2962-924c-4031-99e9-14c91dbf2197.html" target="element"> SWE.3.O.4 Consistency and bidirectional traceability are established between software requirements and software units; and consistency and bidirectional traceability are established between software architectural design and software detailed design; and consistency and bidirectional traceability are established between software detailed design and software units </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/7a20f09a-3a69-4257-9bd8-b351db82ff86.html" target="element">  </a> </td>
+																		<td> <a href="../elements/7a20f09a-3a69-4257-9bd8-b351db82ff86.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/5350dca6-eaa2-42b3-90c2-cb54e2bf363a.html" target="element"> SWE.3.BP7 Communicate agreed software detailed design </a> </td>
+																		<td> <a href="../elements/9fd5c76d-ba69-4cd7-b91b-ad96d52b42bb.html" target="element"> SWE.3.O.5 The software detailed design and the relationship to the software architectural design is agreed and communicated to all affected parties </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/bcb9e7a9-2c07-48b7-a507-88386580536b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/bcb9e7a9-2c07-48b7-a507-88386580536b.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/2750c7d9-54ed-44a7-b88c-497cd0f6d659.html" target="element"> SWE.3.BP8 Develop software units </a> </td>
+																		<td> <a href="../elements/255d6a10-c85c-44b4-8b83-bdcbcfdd652e.html" target="element"> SWE.3.O.6 Software units defined by the software detailed design are produced </a> </td>
+																	</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
