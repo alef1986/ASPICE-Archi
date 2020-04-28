@@ -8,12 +8,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="6928806f-2d06-4823-812a-2ce9f0fbcf3e"
       textAlignment="1"
-      content="This view describes REU.2 Reuse Program Management Process, its outputs and outcomes&#xD;&#xA;&#xD;&#xA;Relation of Outcomes to Outputs and Base Practices is out of scope of this view. See respective view for these details.&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi&#xD;&#xA;&#xD;&#xA;Source of information for this view is Automotive SPICE Standards v.3.1&#xD;&#xA;(http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf)">
+      content="This view describes REU.2 Reuse Program Management Process, its outputs and outcomes&#xD;&#xA;&#xD;&#xA;Relation of Outcomes to Outputs and Base Practices is out of scope of this view. See respective &quot;O. vs. BP. vs. WP.&quot; view for these details.&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi&#xD;&#xA;&#xD;&#xA;Source of information for this view is Automotive SPICE Standards v.3.1&#xD;&#xA;(http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf)">
     <bounds
         x="1068"
         y="228"
         width="238"
-        height="617"/>
+        height="265"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -494,5 +494,29 @@
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_89897fd2-4ea8-47bf-8cf1-9c07b8a12914.xml#89897fd2-4ea8-47bf-8cf1-9c07b8a12914"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="cc3a43a4-16f4-4b04-9a40-5b1f8e85acb0">
+    <bounds
+        x="1068"
+        y="501"
+        width="238"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3f1e5684-8f5b-4dac-a1c5-6fa75ee54daa.xml#3f1e5684-8f5b-4dac-a1c5-6fa75ee54daa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="76dea65b-8654-4ee5-bece-dba905ffce3f">
+    <bounds
+        x="1068"
+        y="564"
+        width="238"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_9e94f80f-8775-4044-8110-6a872c99ec05.xml#9e94f80f-8775-4044-8110-6a872c99ec05"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process Reference Model"
-    id="9e94f80f-8775-4044-8110-6a872c99ec05">
+    name="Overview - Process Reference Model"
+    id="9e94f80f-8775-4044-8110-6a872c99ec05"
+    documentation="This is the overview of Automotive SPICE standard reference process model.&#xD;&#xA;&#xD;&#xA;This view is interactive: click on a process name leads to a  process overview view (process, its base practices, work products and outcomes).">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="c9164bd8-a5b4-492a-b025-d870f25b66a6"

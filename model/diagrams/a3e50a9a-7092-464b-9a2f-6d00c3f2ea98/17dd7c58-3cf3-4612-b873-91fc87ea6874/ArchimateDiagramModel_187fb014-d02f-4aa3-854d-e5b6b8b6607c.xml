@@ -8,12 +8,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="0ae18052-2938-4f60-9a21-c2a8c26414fc"
       textAlignment="1"
-      content="This view describes ACQ.3 Contract Agreement Process, its outputs and outcomes&#xD;&#xA;&#xD;&#xA;Relation of Outcomes to Outputs and Base Practices is out of scope of this view. See respective view for these details.&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi&#xD;&#xA;&#xD;&#xA;Source of information for this view is Automotive SPICE Standards v.3.1&#xD;&#xA;(http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf)">
+      content="This view describes ACQ.3 Contract Agreement Process, its outputs and outcomes&#xD;&#xA;&#xD;&#xA;Relation of Outcomes to Outputs and Base Practices is out of scope of this view. See respective &quot;O. vs. BP. vs. WP.&quot; view for these details.&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi&#xD;&#xA;&#xD;&#xA;Source of information for this view is Automotive SPICE Standards v.3.1&#xD;&#xA;(http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf)">
     <bounds
         x="1020"
         y="180"
         width="238"
-        height="617"/>
+        height="277"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -127,7 +127,7 @@
           href="AccessRelationship_3c7eb002-aa25-4abf-81c3-d885178257cf.xml#3c7eb002-aa25-4abf-81c3-d885178257cf"/>
     </sourceConnections>
     <bounds
-        x="384"
+        x="256"
         y="180"
         width="301"
         height="661"/>
@@ -279,7 +279,7 @@
       id="d26cb55b-7cdf-4cdc-b2be-0adda027ba56"
       targetConnections="d7004a1b-aa94-4c60-afc6-148425791600">
     <bounds
-        x="792"
+        x="664"
         y="180"
         width="205"
         height="55"/>
@@ -292,7 +292,7 @@
       id="f59bc7cd-d6ff-44bc-ad28-c639493143f4"
       targetConnections="4b4c0d34-5011-480f-9872-660d122fa515">
     <bounds
-        x="792"
+        x="664"
         y="240"
         width="205"
         height="55"/>
@@ -305,7 +305,7 @@
       id="745c55a7-4ecc-4ded-94c2-c35e21dd2ff9"
       targetConnections="6a0aaf93-0f3b-476c-b9f3-e6df95eda97f">
     <bounds
-        x="792"
+        x="664"
         y="300"
         width="205"
         height="55"/>
@@ -318,7 +318,7 @@
       id="e9f7b09f-1dc6-4649-ae73-8611b85ccd68"
       targetConnections="ae0f5466-352f-4e17-8b55-824adde663b6">
     <bounds
-        x="792"
+        x="664"
         y="360"
         width="205"
         height="55"/>
@@ -331,12 +331,36 @@
       id="070b916e-0cdd-44cc-b151-a59548ac1888"
       targetConnections="2820489d-f109-463d-97e4-474cc85e520d">
     <bounds
-        x="792"
+        x="664"
         y="420"
         width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_5630bedd-0765-46aa-9068-3b5380423e01.xml#5630bedd-0765-46aa-9068-3b5380423e01"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="150d5082-d28a-4567-b1ca-91296e6b29f7">
+    <bounds
+        x="1020"
+        y="468"
+        width="238"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_6429dbbf-85c1-4c88-8a4a-7969fda6b53a.xml#6429dbbf-85c1-4c88-8a4a-7969fda6b53a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="f5001065-a5a6-4041-b8e1-fb01aca116ff">
+    <bounds
+        x="1020"
+        y="528"
+        width="238"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_9e94f80f-8775-4044-8110-6a872c99ec05.xml#9e94f80f-8775-4044-8110-6a872c99ec05"/>
   </children>
 </archimate:ArchimateDiagramModel>

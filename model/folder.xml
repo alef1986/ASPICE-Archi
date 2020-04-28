@@ -2,5 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ASPICE"
     id="0c6fbcf4-57de-4e25-a1b4-d9a0fa460c16"
-    purpose="Source of information for this model is Automotive SPICE Standards v.3.1&#xD;&#xA;(http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf)&#xD;&#xA;&#xD;&#xA;Created by: Alexander Efremov (alexander.efremoff@gmail.com)"
+    purpose="This model contains process descriptions from the Automotive SPICE Standard v.3.1.&#xD;&#xA;All views are contained in the &quot;Views&quot; section (selectable in the model tree on the left side).&#xD;&#xA;Model structure maintains the standard structro&#xD;&#xA;&#xD;&#xA;Source of information for this model is Automotive SPICE Standard v.3.1&#xD;&#xA;(http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf)&#xD;&#xA;&#xD;&#xA;Created by: Alexander Efremov (alexander.efremoff@gmail.com)"
     version="4.6.0"/>
