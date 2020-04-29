@@ -429,4 +429,28 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_b846e279-64bb-4f1d-b21c-88ec6d53ed0a.xml#b846e279-64bb-4f1d-b21c-88ec6d53ed0a"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="25c4fa6c-9235-45d6-8b06-c47204b1fbc2">
+    <bounds
+        x="853"
+        y="648"
+        width="180"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_9e94f80f-8775-4044-8110-6a872c99ec05.xml#9e94f80f-8775-4044-8110-6a872c99ec05"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="fe52f0b0-a549-4534-a4b2-8a9a87fcce09">
+    <bounds
+        x="853"
+        y="588"
+        width="180"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_f66d6d5f-26d4-4f94-aba0-043c91db4667.xml#f66d6d5f-26d4-4f94-aba0-043c91db4667"/>
+  </children>
 </archimate:ArchimateDiagramModel>

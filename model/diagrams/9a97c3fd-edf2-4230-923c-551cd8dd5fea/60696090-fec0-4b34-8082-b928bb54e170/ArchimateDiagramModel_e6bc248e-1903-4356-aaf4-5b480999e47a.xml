@@ -563,4 +563,28 @@
         width="829"
         height="127"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="74c93691-6a21-4f9b-8308-ec0066a0263e">
+    <bounds
+        x="853"
+        y="798"
+        width="180"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_9e94f80f-8775-4044-8110-6a872c99ec05.xml#9e94f80f-8775-4044-8110-6a872c99ec05"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="a7424e57-a7eb-4486-bec6-e31388e5e7b7">
+    <bounds
+        x="853"
+        y="726"
+        width="180"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_9c20a724-26e3-4286-9bfc-93f7dad78080.xml#9c20a724-26e3-4286-9bfc-93f7dad78080"/>
+  </children>
 </archimate:ArchimateDiagramModel>

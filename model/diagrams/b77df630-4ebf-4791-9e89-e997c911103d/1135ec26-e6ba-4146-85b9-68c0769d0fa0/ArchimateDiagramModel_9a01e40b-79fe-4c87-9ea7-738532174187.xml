@@ -11,7 +11,7 @@
       content="This view answers the following questions:&#xD;&#xA;- If I implement and deploy the Base Practice (BP) ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;- If I implement and demploy the Outcome Work Product ***, how can I verify if I did it properly? What outcomes shall be achieved?&#xD;&#xA;&#xD;&#xA;Scope of this view - Outcomes, Base Practices and their relations for ASPICE process MAN.5 Risk Management&#xD;&#xA;&#xD;&#xA;Latest version and docs can be found here: https://github.com/alef1986/ASPICE-Archi">
     <bounds
         x="12"
-        y="780"
+        y="672"
         width="829"
         height="116"/>
   </children>
@@ -563,5 +563,29 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_a4599e65-2234-470b-9f49-5ef82ab3f7ad.xml#a4599e65-2234-470b-9f49-5ef82ab3f7ad"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="0688d6c0-771b-4883-9800-e7a257485733">
+    <bounds
+        x="852"
+        y="733"
+        width="180"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_9e94f80f-8775-4044-8110-6a872c99ec05.xml#9e94f80f-8775-4044-8110-6a872c99ec05"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="ed55d0f2-8bf9-4c7b-9c69-a672c00ba097">
+    <bounds
+        x="852"
+        y="672"
+        width="180"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_86d9a854-1b1d-4857-bef1-80e1ca65d79c.xml#86d9a854-1b1d-4857-bef1-80e1ca65d79c"/>
   </children>
 </archimate:ArchimateDiagramModel>
