@@ -1,8 +1,10 @@
-# ASPICE-Archi
-Archi (www.archimatetool.com) model of Automotive SPICE v.3.1 (http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf)
+# Digital Automotive SPICE Process Reference Model
+(see details in Wiki: https://github.com/alef1986/ASPICE-Archi/wiki)
 
-Work in progess
+This is the digital version of the Automotive SPICE Process Reference Model
+(http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf)
 
-Exported browser-friendly version may be found here: https://alef1986.github.io/ASPICE-Archi/
+* Interactive browser-accessible handbook: https://alef1986.github.io/ASPICE-Archi/
+* Archi model (see details on how to access and use it in [Wiki - Related tools](https://github.com/alef1986/ASPICE-Archi/wiki/Related-tools))
 
 Created by Alexander Efremov (alexander.efremoff@gmail.com)
