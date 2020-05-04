@@ -8,7 +8,7 @@ This is the digital version of the [Automotive SPICE Process Reference Model](ht
 
 ![](https://alef1986.github.io/ASPICE-Archi/WikiImages/test.png)
 _This image represents a visualisation of the model contents. Created with [Gephi](https://gephi.org/) using the model itself. Green are work products, orange are processes, yellow are base practices, purple are outcomes._
-Created by Alexander Efremov (alexander.efremoff@gmail.com)
+Created by Alexander Efremov (alexander.efremoff@gmail.com, [Facebook](https://www.facebook.com/alef1986), [LinkedIn](https://www.linkedin.com/in/alexander-efremov-88b65b28/), [Xing](https://www.xing.com/profile/Alexander_Efremov6))
 
 ---
 The Automotive SPICE document states following regarding the derivative works. Consent of SPICE User Group and the VDA Quality Management Center are pending.
