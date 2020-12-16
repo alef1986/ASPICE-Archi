@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>HWE.1.BP1 Specify hardware requirements</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>HWE.1.BP1 Specify hardware requirements</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessProcess"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessProcess" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none">Use the system requirements and the system architecture and changes to the system requirements and the system architecture to identify the required functions and capabilities of the hardware. Specify hardware requirements including hardware interface requirements in a hardware requirements specification according to state-ofthe-art characteristics for requirements. [OUTCOME 1,5]
+[ISO 26262-5:2018, clauses 6.4.1, 6.4.2, 6.4.5]
+NOTE 1: Characteristics of requirements are defined in standards such as ISO IEEE 29148 clause 5.2, or ISO 26262-8:2018 clause 6.4.2.4. According to these standards characteristics of an individual requirement include being:
+&#8226; verifiable
+&#8226; design-free/implementation-free (see Section 3.6 here)
+&#8226; unambiguous
+&#8226; comprehensible
+&#8226; consistent in itself
+&#8226; complete in itself
+&#8226; not contradicting any other requirement
+&#8226; atomic/singular
+&#8226; defined through language criteria and sentence structure supporting the above characteristics
+NOTE 2: In case of hardware development only, the system requirements and the system architecture refer to a given operating environment (see also Note 14). In that case, stakeholder requirements should be used as the basis for identifying the required functions and capabilities of the hardware.
+NOTE 3: Hardware requirements specify particular desired characteristics of the hardware and can include
+&#8226; lifetime and mission profile, lifetime robustness (as, in contrast to software, hardware characteristics are impacted by physical influences which may change the hardware&#8217;s characteristics over time)
+&#8226; maximum price
+&#8226; storage and transportation requirements
+&#8226; functional behaviour of analog or digital circuits and logic
+&#8226; quiescent current, voltage impulse responsiveness to crank, start-stop,
+drop-out, load dump
+&#8226; temperature, maximum hardware heat dissipation
+&#8226; power consumption depending on the operating state such as sleepmode, start-up, reset conditions
+&#8226; frequencies, modulation, signal delays, filters, control loops
+&#8226; power-up and power-down sequences, accuracy and precision of signal acquisition or signal processing time
+&#8226; computing resources such as memory space and CPU clock tolerances
+&#8226; maximum abrasive wear and shearing forces for e.g. pins or soldering joints
+&#8226; requirements resulting from lessons learned [ISO 26262-2:2018, clause 5.4.2.6]
+&#8226; safety related requirements derived from the technical safety concept
+[ISO 26262-5:2018, clauses 6.4.1, 6.4.2]
+NOTE 4: Some numerical values, to be mentioned in complete requirements statements, may only be determined in an evolutionary way by means of e.g. measurements, prototype testing. Incomplete or underspecified aspects should be
+considered as a risk in HWE.1.BP3
+EXAMPLE: Radio connection at system level Sender and receiver, 400m away from each other. Both components will
+require a max. signal-to-noise ratio. However, these values can only be determined in an empirical way. Therefore, exact hardware requirements cannot be defined in the first place.
+NOTE 5: Hardware requirements are often integrated in superordinate requirements specifications, or spread across several work products, such as customer requirements, system requirements, and industry standards.
+NOTE 6: Reasons for an update may be e.g.
+&#8226; change requests,
+&#8226; results of safety analyses [ISO 26262-9, clauses 8.4.3 and 8.4.4] and analysis of dependent failures [ISO 26262-9 clause 7.4]</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
