@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HWE.1.BP6 Ensure consistency"
+    id="ccb4ef51-4bd8-476e-b23b-d0b25c96f754"
+    documentation="Ensure consistency between system requirements and hardware requirements. Ensure consistency between the system architecture and hardware requirements. [OUTCOME 6]&#xD;&#xA;[ISO 26262-5:2018, clause 6.4.9]&#xD;&#xA;NOTE 13: Consistency is supported by bidirectional traceability and can be demonstrated by review records.&#xD;&#xA;NOTE 14: In case of hardware development only, the system requirements and system architecture refer to a given operating environment (see also note 13). In that case, consistency and bidirectional traceability have to be ensured between stakeholder requirements and hardware requirements.&#xD;&#xA;NOTE 15: Safety related requirements shall be compliant with system architectural constraints such as&#xD;&#xA;• Fault tolerant time interval [ISO 26262-5:2018, clause 6.4.7]&#xD;&#xA;• Fault handling time interval [ISO 26262-5:2018, clause 6.4.7]&#xD;&#xA;• Multiple-point fault detection interval [ISO 26262-5:2018, clause 6.4.8]"/>

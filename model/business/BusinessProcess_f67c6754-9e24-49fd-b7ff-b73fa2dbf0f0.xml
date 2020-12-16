@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HWE.1.BP4 Analyse the impact on the operating environment"
+    id="f67c6754-9e24-49fd-b7ff-b73fa2dbf0f0"
+    documentation="Analyse the impact that the hardware requirements will have on interfaces of the system elements and the operating environment. [OUTCOME 3, 7]&#xD;&#xA;NOTE 9: Aspects of the operation environment may be e.g.&#xD;&#xA;• the mounting space and position&#xD;&#xA;• temperature&#xD;&#xA;• humidity&#xD;&#xA;• mechanical stress&#xD;&#xA;• EMC/EMI, or ESD&#xD;&#xA;NOTE 10: Interfaces to the system elements may be e.g.&#xD;&#xA;• connector&#xD;&#xA;• cable harness&#xD;&#xA;• optical/illumination&#xD;&#xA;• voltage/currents&#xD;&#xA;• power supply&#xD;&#xA;• heat dissipation&#xD;&#xA;The system level (e.g. SYS.3 in Automotive SPICE®) is responsible for deciding on the connection technology of the interfaces of system elements (crimping, soldering, pressing, etc.)."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HWE.1.BP3 Analyse hardware requirements"
+    id="20ce1f41-6c22-4d68-9403-d92f9cf3fd77"
+    documentation="Analyse the specified hardware requirements including their interdependencies to ensure correctness, technical feasibility, and to support risk identification. Determine the impact on cost, schedule, and the technical impact. [OUTCOME 2, 7]&#xD;&#xA;NOTE 8: The analysis of impact on cost and schedule supports the adjustment of project estimates. Refer to Automotive SPICE®&#xD;&#xA; MAN.3.BP5 and MAN.3.BP8. For risk identification refer to Automotive SPICE®  MAN.5.BP3."/>

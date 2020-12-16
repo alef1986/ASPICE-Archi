@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HWE.3 Verification against Hardware Design"
+    id="f64414bc-b59d-40e8-84ed-99e8c9ba339d"
+    documentation="The purpose is to ensure that the hardware is verified to provide evidence for compliance with the hardware design."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE.3 Mechanical System Integration and Integration Test"
+    id="5f234166-38ff-4c6d-8de0-69cba563e8a3"
+    documentation="The purpose of the Mechanical System Integration and Integration Test Process is to integrate the mechanical items (mechanical component items and/or mechanical system items) into larger mechanical items up to a complete integrated mechanical system item consistent with the mechanical system architectural design and to ensure that the mechanical items are tested to provide evidence for compliance of the integrated mechanical items with the mechanical system architectural design, including the interfaces between the mechanical items."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HWE.1.BP5 Establish bidirectional traceability"
+    id="70493c9b-b54c-43fc-bc7f-8effb4248528"
+    documentation="Establish bidirectional traceability between a single hardware requirement and system requirements. Establish bidirectional traceability between a single hardware requirement and the system architecture. [OUTCOME 6]&#xD;&#xA;NOTE 11: For a particular hardware requirement traceability redundancy should be avoided by establishing a combination of these approaches that covers the project and the organisational needs.&#xD;&#xA;NOTE 12: Bidirectional traceability supports coverage, consistency, and impact analysis"/>
