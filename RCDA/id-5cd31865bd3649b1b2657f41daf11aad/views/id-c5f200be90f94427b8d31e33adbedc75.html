@@ -1,0 +1,304 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>1.1. Architectural Requirements Prioritization</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>1.1. Architectural Requirements Prioritization</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-c5f200be90f94427b8d31e33adbedc75.png" alt="1.1. Architectural Requirements Prioritization" usemap="#id-c5f200be90f94427b8d31e33adbedc75map"/>
+			   <map name="id-c5f200be90f94427b8d31e33adbedc75map">
+				  		<area shape="rect" coords="642,434,762,489" href="../views/id-74fced4cfe4548008f00af66e09ba176.html"  target="view">
+				      <!-- Other diagram objects -->
+				  		<area shape="rect" coords="586,82,762,137" href="../elements/id-3080dd37763a48e2b496b31ad1d2445b.html"  target="element">
+				  		<area shape="rect" coords="586,10,762,65" href="../elements/id-88ea44eb6c11429e97d7af6ab1a8351c.html"  target="element">
+				  		<area shape="rect" coords="10,416,186,471" href="../elements/id-7af17499bd674684805b538e608a222b.html"  target="element">
+				  		<area shape="rect" coords="10,344,186,399" href="../elements/id-8e446600d6ce4a2ab1e5e53a2f011732.html"  target="element">
+				  		<area shape="rect" coords="10,272,186,327" href="../elements/id-6bbb00dc867e437fbb08cad372ba2be3.html"  target="element">
+				  		<area shape="rect" coords="10,206,186,261" href="../elements/id-a5257e01e96f453a80905cbf065aa6ba.html"  target="element">
+				  		<area shape="rect" coords="10,140,186,195" href="../elements/id-071e22921df746b6a2773767caf3013c.html"  target="element">
+				  		<area shape="rect" coords="10,74,186,129" href="../elements/id-da4d792ff9804b74be877cc9997b5222.html"  target="element">
+				  		<area shape="rect" coords="10,10,186,65" href="../elements/id-0e20534497344de791c2f09d4c7676f9.html"  target="element">
+				  				<area shape="rect" coords="286,418,491,473" href="../elements/id-28ffaf0a83c340bf985a2af9f29fc282.html"  target="element">
+				  				<area shape="rect" coords="286,346,491,401" href="../elements/id-23b6728a45ae425fb42fb9ad33342197.html"  target="element">
+				  				<area shape="rect" coords="286,274,491,329" href="../elements/id-b9095cfcae434d1bac784b8446934499.html"  target="element">
+				  				<area shape="rect" coords="286,202,491,257" href="../elements/id-b4c7516d15d44b55b3ae62f04228d9f6.html"  target="element">
+				  				<area shape="rect" coords="286,58,491,113" href="../elements/id-e9800256c7184f07bcf877554a3649c3.html"  target="element">
+				  				<area shape="rect" coords="286,130,491,185" href="../elements/id-a4f0b83184d0476ca99253b01dfea67c.html"  target="element">
+
+				  		<area shape="rect" coords="262,10,515,489" href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html"  target="element">
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+											    <td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element" class="i18n-elementtype-BusinessFunction"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-a4f0b83184d0476ca99253b01dfea67c.html" target="element"> Express architectural Requirements in scenarios </a> </td>
+													    <td> <a href="../elements/id-a4f0b83184d0476ca99253b01dfea67c.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-e9800256c7184f07bcf877554a3649c3.html" target="element"> Identify Architectural Requirements </a> </td>
+													    <td> <a href="../elements/id-e9800256c7184f07bcf877554a3649c3.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-b4c7516d15d44b55b3ae62f04228d9f6.html" target="element"> Identify and document Architectural Concerns </a> </td>
+													    <td> <a href="../elements/id-b4c7516d15d44b55b3ae62f04228d9f6.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-b9095cfcae434d1bac784b8446934499.html" target="element"> Prioritize Architectural Concerns </a> </td>
+													    <td> <a href="../elements/id-b9095cfcae434d1bac784b8446934499.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-23b6728a45ae425fb42fb9ad33342197.html" target="element"> Re-prioritize often </a> </td>
+													    <td> <a href="../elements/id-23b6728a45ae425fb42fb9ad33342197.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-28ffaf0a83c340bf985a2af9f29fc282.html" target="element"> When to stop </a> </td>
+													    <td> <a href="../elements/id-28ffaf0a83c340bf985a2af9f29fc282.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-0e20534497344de791c2f09d4c7676f9.html" target="element"> Requirement </a> </td>
+											    <td> <a href="../elements/id-0e20534497344de791c2f09d4c7676f9.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-da4d792ff9804b74be877cc9997b5222.html" target="element"> Budget </a> </td>
+											    <td> <a href="../elements/id-da4d792ff9804b74be877cc9997b5222.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-071e22921df746b6a2773767caf3013c.html" target="element"> Operational Stakeholder Input </a> </td>
+											    <td> <a href="../elements/id-071e22921df746b6a2773767caf3013c.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-a5257e01e96f453a80905cbf065aa6ba.html" target="element"> Delivery Stakeholder Input </a> </td>
+											    <td> <a href="../elements/id-a5257e01e96f453a80905cbf065aa6ba.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-6bbb00dc867e437fbb08cad372ba2be3.html" target="element"> Policies and Strategies of the Organization </a> </td>
+											    <td> <a href="../elements/id-6bbb00dc867e437fbb08cad372ba2be3.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-8e446600d6ce4a2ab1e5e53a2f011732.html" target="element"> Output from Stakeholder Workshop </a> </td>
+											    <td> <a href="../elements/id-8e446600d6ce4a2ab1e5e53a2f011732.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-7af17499bd674684805b538e608a222b.html" target="element"> Output from Architecture Validation </a> </td>
+											    <td> <a href="../elements/id-7af17499bd674684805b538e608a222b.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-88ea44eb6c11429e97d7af6ab1a8351c.html" target="element"> Architectural Concern </a> </td>
+											    <td> <a href="../elements/id-88ea44eb6c11429e97d7af6ab1a8351c.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-3080dd37763a48e2b496b31ad1d2445b.html" target="element"> Architectural Document </a> </td>
+											    <td> <a href="../elements/id-3080dd37763a48e2b496b31ad1d2445b.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../views/id-74fced4cfe4548008f00af66e09ba176.html" target="view"> Overview </a> </td>
+											    <td> <a href="../views/id-74fced4cfe4548008f00af66e09ba176.html" target="view" class="i18n-viewpoint-"> </a> </td>
+											</tr>
+									    <!-- Other graphical objects -->
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-78bd84daac9042c186ffebb0c5ca8ee4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-78bd84daac9042c186ffebb0c5ca8ee4.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-0e20534497344de791c2f09d4c7676f9.html" target="element"> Requirement </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-957d4d51f73b4b7aa13bde647ad47860.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-957d4d51f73b4b7aa13bde647ad47860.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-da4d792ff9804b74be877cc9997b5222.html" target="element"> Budget </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-cd44f9cfcf0c464f97a80c7a223ec891.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-cd44f9cfcf0c464f97a80c7a223ec891.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-071e22921df746b6a2773767caf3013c.html" target="element"> Operational Stakeholder Input </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-c3f2a7fe204e44f285de58eabb0de77c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-c3f2a7fe204e44f285de58eabb0de77c.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-a5257e01e96f453a80905cbf065aa6ba.html" target="element"> Delivery Stakeholder Input </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a582509034864714ab6833d17be0a1cc.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a582509034864714ab6833d17be0a1cc.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-6bbb00dc867e437fbb08cad372ba2be3.html" target="element"> Policies and Strategies of the Organization </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a7887165489b4faeb6b0d87c1f1bb6e4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a7887165489b4faeb6b0d87c1f1bb6e4.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-8e446600d6ce4a2ab1e5e53a2f011732.html" target="element"> Output from Stakeholder Workshop </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-4693a3ac3aba431b9b70ad5b44612352.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-4693a3ac3aba431b9b70ad5b44612352.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-7af17499bd674684805b538e608a222b.html" target="element"> Output from Architecture Validation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-627b178befe94cf19cc954f91fcd969d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-627b178befe94cf19cc954f91fcd969d.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-a4f0b83184d0476ca99253b01dfea67c.html" target="element"> Express architectural Requirements in scenarios </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-6c299c7062584024adfd92100abb4cac.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6c299c7062584024adfd92100abb4cac.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-e9800256c7184f07bcf877554a3649c3.html" target="element"> Identify Architectural Requirements </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-cdacc95c1bdc4df3b3acad898a8750f2.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-cdacc95c1bdc4df3b3acad898a8750f2.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-b4c7516d15d44b55b3ae62f04228d9f6.html" target="element"> Identify and document Architectural Concerns </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-d6e1355abb1e49ba90b37583a4efe852.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d6e1355abb1e49ba90b37583a4efe852.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-b9095cfcae434d1bac784b8446934499.html" target="element"> Prioritize Architectural Concerns </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-8a95b4740c9042079f0554dea2bfee7e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-8a95b4740c9042079f0554dea2bfee7e.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-23b6728a45ae425fb42fb9ad33342197.html" target="element"> Re-prioritize often </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-9398def186384349bc9dfddea203179e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9398def186384349bc9dfddea203179e.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-28ffaf0a83c340bf985a2af9f29fc282.html" target="element"> When to stop </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a1df93dd42904312ac3187b61b49c5f9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a1df93dd42904312ac3187b61b49c5f9.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-88ea44eb6c11429e97d7af6ab1a8351c.html" target="element"> Architectural Concern </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-6c584a49a23149c8ad27ae505363bf8b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6c584a49a23149c8ad27ae505363bf8b.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/id-8ea98da0fad6486b99d925eed0112fd7.html" target="element"> Architectural Requirements Prioritization </a> </td>
+																		<td> <a href="../elements/id-3080dd37763a48e2b496b31ad1d2445b.html" target="element"> Architectural Document </a> </td>
+																	</tr>
+
+											
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelReference -->
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
